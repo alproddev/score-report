@@ -372,15 +372,20 @@ body{
 
 .math-wrapper{
   height: 300px;
-    width: 200px;
+    width: 120px;
     position: absolute;
-    top: 0;
-    left: 50px;
+    top: -10px;
+    left: 100px;
     justify-content: flex-start;
     padding-left: unset;
 }
 
 #math-col-3{
-  padding-top: 170px;
+  padding-top: 120px;
 position: relative;
+}
+
+.align-left{
+  text-align: left;
+  padding-left:16px;
 }
