@@ -369,3 +369,18 @@ body{
 .ca-flex-two-eight{
   width:30%;
 }
+
+.math-wrapper{
+  height: 300px;
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 50px;
+    justify-content: flex-start;
+    padding-left: unset;
+}
+
+#math-col-3{
+  padding-top: 170px;
+position: relative;
+}
