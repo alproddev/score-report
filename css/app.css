@@ -358,3 +358,14 @@ body{
 .col-name .math{
   height: 36px
 }
+
+.ca-flex-one-eighth{
+  width:20%;
+}
+.ca-flex-two-fourth{
+  width:40%;
+}
+
+.ca-flex-two-eight{
+  width:30%;
+}
