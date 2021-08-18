@@ -1,4 +1,4 @@
 $(document).ready(function(){
-      $('#reading').load("reading.html");
-      $('#writing').load("writing.html");
+      $('#reading').load("tables/reading.html");
+      $('#writing').load("tables/writing.html");
    });
