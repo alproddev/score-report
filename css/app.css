@@ -239,6 +239,13 @@ body{
         align-items: center;
         width: 110px;
     }
+    .col-name-small {
+      text-align: left;
+          height: 28px;
+          display: flex;
+          align-items: center;
+          width: 80px;
+      }
   }
 
   .questions-overview div.answer-sheet:first-of-type {
@@ -346,4 +353,8 @@ body{
 
 .difficulty-level-small.hard span {
   background-color: #66a1a5;
+}
+
+.col-name .math{
+  height: 36px
 }
