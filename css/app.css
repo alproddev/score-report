@@ -138,7 +138,7 @@ body{
   }
 
   .total-score-graph img {
-    width: 290px;
+    width: 390px;
     height: auto;
   }
 
@@ -390,6 +390,7 @@ body{
 #math-col-3{
   padding-top: 120px;
 position: relative;
+top: -6px;
 }
 
 .align-left{
